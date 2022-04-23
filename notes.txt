@@ -1,0 +1,7 @@
+Sobre o requisito de mudar os itens de posição:
+	Usar esse método para remover o li selecionado: https://www.w3schools.com/jsref/met_node_removechild.asp
+	E dps usar este método para adicioná-lo em outro lugar da lista: https://www.w3schools.com/jsref/met_node_insertbefore.asp
+	https://www.webdeveloper.com/d/96351-move-a-list-item-up-or-down-the-ul-list
+	https://www.codegrepper.com/code-examples/javascript/javascript+move+list+items+up+and+down
+	https://stackoverflow.com/questions/44850173/javascript-issue-with-moving-list-items-up-and-down
+	
