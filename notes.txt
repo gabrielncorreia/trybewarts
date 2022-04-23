@@ -4,4 +4,3 @@ Sobre o requisito de mudar os itens de posição:
 	https://www.webdeveloper.com/d/96351-move-a-list-item-up-or-down-the-ul-list
 	https://www.codegrepper.com/code-examples/javascript/javascript+move+list+items+up+and+down
 	https://stackoverflow.com/questions/44850173/javascript-issue-with-moving-list-items-up-and-down
-	
